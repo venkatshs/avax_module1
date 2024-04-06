@@ -10,8 +10,8 @@ This smart contract allows players to collect, build, and earn rewards for their
 
 - It has two main contracts, `ERC20` token contract and the `Vault` contract
 
-- The ERC20-Token contract, `ERC20.sol`, was deployed on the `demosubnet` network at the contract address `0x4Ac1d98D9cEF99EC6546dEd4Bd550b0b287aaD6D` and
-- The Vault contract, `Vault.sol` was deployed on the `demosubnet` network at the contract address`0xA4cD3b0Eb6E5Ab5d8CE4065BcCD70040ADAB1F00`.
+- The ERC20-Token contract, `ERC20.sol`, was deployed on the `supernet` network at the contract address `0x4Ac1d98D9cEF99EC6546dEd4Bd550b0b287aaD6D` and
+- The Vault contract, `Vault.sol` was deployed on the `supernet` network at the contract address`0xA4cD3b0Eb6E5Ab5d8CE4065BcCD70040ADAB1F00`.
 
 ## Deploying my EVM subnet using the Avalanche CLI
 
