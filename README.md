@@ -34,9 +34,9 @@ This smart contract allows players to collect, build, and earn rewards for their
 - We can add the subnet to the metamask by toggling on the netwok and click on the `Add Network` and click on `Add Network Manually` and enter the details of the subnet we have created before.
 
 ## Contract Details
-- **Network:** demosubnet
-- **Chain ID** 1234
-- **Currency Symbol** YS
+- **Network:** supernet
+- **Chain ID** 2255
+- **Currency Symbol** SV
 
 ## Vault Contract Functionalities
 ### Deposit
